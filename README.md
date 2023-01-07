@@ -43,6 +43,6 @@ Página de Detalhes
 
 ✓ Criar um readme para o projeto; 
 
- [Deploy do projeto no surge] (https://pokedexpokemon.surge.sh/) 😊
+ [Deploy do projeto no surge](https://pokedexpokemon.surge.sh/) 😊
 
- [Repositório do projeto no git hub] (https://github.com/taiszimerer/projeto-react-apis) 😊
+ [Repositório do projeto no git hub](https://github.com/taiszimerer/projeto-react-apis) 😊
