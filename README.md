@@ -1,4 +1,4 @@
- # Projeto React API's - Frontend 💜
+ # Projeto React - Integração de API - Front End 
 
 O Projeto React e APIs é um site de pokémons, onde o usuário pode capturar os pokemons para sua própria Pokedex, e visualizar detalhes de cada um deles.
 O projeto é composto por 3 Pages: Home, Pokedex e Detalhes. O projeto está subdivido em temas de acordo com os conteúdos estudados durante o M´dulo 2 - Frontend no bootcamp da Labenu.
